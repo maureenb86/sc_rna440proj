@@ -1,6 +1,9 @@
 # sc_rna440proj
 https://academic.oup.com/neuro-oncology/article/24/2/273/6291352?login=false
 
+Project Title: Building a medulloblastoma tumor subtype classifier through 
+analysis of immune cell expression patterns in the four known tumor subtypes
+
 Overview:
 
 
