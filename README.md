@@ -8,7 +8,7 @@ Overview:
 
 
 Data:
-Our project will be using data generated in Riemondy et al 2021 using 
+Our project will be using data generated in Riemondy et al using 
 single-cell capture, RNA library preparation, and sequencing. ScRNA-seq was 
 performed on 2000 cells per sample with transcripts converted to cDNA, barcoded, 
 and libraries sequencing on Illumina NovaSeq6000, obtaining 50,000 reads/cell. 
