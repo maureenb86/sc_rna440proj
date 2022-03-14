@@ -62,7 +62,7 @@ package and version requirements to run the project on your local machine.
 
 ## Installation:
 Required packages:<br>
-`Python 3.9.7`<br>  
+`Python 3.9.7`<br>
 `numpy 1.21.2`<br>
 `pandas 1.3.5`<br>
 `scanpy 1.8.2`<br>
