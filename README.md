@@ -61,6 +61,13 @@ Other relevant files include the requirements.txt which will contain the
 package and version requirements to run the project on your local machine.
 
 ## Installation:
+To generate the preliminary figure "Top 20 expressed genes", clone this repo 
+and run the prelim_figs.py script which can be found in the scripts folder. 
+The results will be exported in a .png named "twenty_top_genes.png". The 
+package requirements for this script are detailed below.
+
+(This will be updated as the scripts folder aquires more functionality.)
+
 Required packages:<br>
 `Python 3.9.7`<br>
 `numpy 1.21.2`<br>
