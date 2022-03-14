@@ -4,7 +4,7 @@ https://academic.oup.com/neuro-oncology/article/24/2/273/6291352?login=false
 *Project Title: Building a medulloblastoma tumor subtype classifier through
 analysis of immune cell expression patterns in the four known tumor subtypes*
 
-##Overview:
+## Overview:
 Currently:
 This repo contains preliminary analysis of the scRNA-seq data from the cited
 Riemondy et al. paper.
@@ -22,7 +22,7 @@ which takes the immune cell expression data of a patient as input.
 
 Citations for reused scripts will follow as needed throughout the project.
 
-##Data:
+## Data:
 Our project will be using data generated in Riemondy et al using
 single-cell capture, RNA library preparation, and sequencing. ScRNA-seq was
 performed on 2000 cells per sample with transcripts converted to cDNA, barcoded,
@@ -43,7 +43,7 @@ immune single-cell transcriptomics define subgroup-specific intra-tumoral
 heterogeneity of childhood medulloblastoma, Neuro-Oncology, Volume 24,
 Issue 2, February 2022, Pages 273–286, https://doi.org/10.1093/neuonc/noab135
 
-##Folder Structure:
+## Folder Structure:
 
 This repo is divided into three main folders: figures, scripts, and data.
 
@@ -60,9 +60,9 @@ scRNA-seq data and one with the relevant metadata.
 Other relevant files include the requirements.txt which will contain the
 package and version requirements to run the project on your local machine.
 
-##Installation:
-Required packages:
-`Python 3.9.7`
-`numpy 1.21.2`
-`pandas 1.3.5`
-`scanpy 1.8.2`
+## Installation:
+Required packages:<br>
+`Python 3.9.7`<br>  
+`numpy 1.21.2`<br>
+`pandas 1.3.5`<br>
+`scanpy 1.8.2`<br>
