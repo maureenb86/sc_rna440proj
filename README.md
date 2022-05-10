@@ -73,3 +73,11 @@ Required packages:<br>
 `numpy 1.21.2`<br>
 `pandas 1.3.5`<br>
 `scanpy 1.8.2`<br>
+`anndata==0.7.8`<br>
+`umap==0.5.2`<br>
+`scipy==1.8.0`<br>
+`scikit-learn==1.0.2`<br>
+`statsmodels==0.13.2`<br>
+`python-igraph==0.9.9`<br>
+`pynndescent==0.5.6`<br>
+
